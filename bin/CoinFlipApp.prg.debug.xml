@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="D:\Coding\Monkey C\CoinFlipApp\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppDelegate.mc" id="1" lineNum="8" parent="globals/CoinFlipAppDelegate" pc="268435456" symbol="initialize"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppDelegate.mc" id="1" lineNum="9" parent="globals/CoinFlipAppDelegate" pc="268435460" symbol="initialize"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppDelegate.mc" id="2" lineNum="12" parent="globals/CoinFlipAppDelegate" pc="268435479" symbol="onKey"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppDelegate.mc" id="2" lineNum="14" parent="globals/CoinFlipAppDelegate" pc="268435483" symbol="onKey"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppDelegate.mc" id="2" lineNum="15" parent="globals/CoinFlipAppDelegate" pc="268435511" symbol="onKey"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppDelegate.mc" id="2" lineNum="16" parent="globals/CoinFlipAppDelegate" pc="268435551" symbol="onKey"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppDelegate.mc" id="2" lineNum="17" parent="globals/CoinFlipAppDelegate" pc="268435570" symbol="onKey"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppDelegate.mc" id="2" lineNum="18" parent="globals/CoinFlipAppDelegate" pc="268435598" symbol="onKey"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppDelegate.mc" id="2" lineNum="20" parent="globals/CoinFlipAppDelegate" pc="268435619" symbol="onKey"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppDelegate.mc" id="3" lineNum="23" parent="globals/CoinFlipAppDelegate" pc="268435623" symbol="coinFlip"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppDelegate.mc" id="3" lineNum="24" parent="globals/CoinFlipAppDelegate" pc="268435627" symbol="coinFlip"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppDelegate.mc" id="3" lineNum="25" parent="globals/CoinFlipAppDelegate" pc="268435665" symbol="coinFlip"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppDelegate.mc" id="3" lineNum="27" parent="globals/CoinFlipAppDelegate" pc="268435674" symbol="coinFlip"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppDelegate.mc" id="4" lineNum="6" parent="globals/CoinFlipAppDelegate" pc="268437194" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppDelegate.mc" id="4" lineNum="6" parent="globals/CoinFlipAppDelegate" pc="268437194" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="6" lineNum="11" parent="globals/CoinFlipAppView" pc="268435681" symbol="initialize"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="6" lineNum="12" parent="globals/CoinFlipAppView" pc="268435685" symbol="initialize"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="7" lineNum="16" parent="globals/CoinFlipAppView" pc="268435704" symbol="onLayout"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="7" lineNum="17" parent="globals/CoinFlipAppView" pc="268435708" symbol="onLayout"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="8" lineNum="23" parent="globals/CoinFlipAppView" pc="268435746" symbol="onShow"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="8" lineNum="24" parent="globals/CoinFlipAppView" pc="268435750" symbol="onShow"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="8" lineNum="31" parent="globals/CoinFlipAppView" pc="268435883" symbol="onShow"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="8" lineNum="33" parent="globals/CoinFlipAppView" pc="268435913" symbol="onShow"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="8" lineNum="40" parent="globals/CoinFlipAppView" pc="268436046" symbol="onShow"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="8" lineNum="42" parent="globals/CoinFlipAppView" pc="268436076" symbol="onShow"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="8" lineNum="49" parent="globals/CoinFlipAppView" pc="268436209" symbol="onShow"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="8" lineNum="51" parent="globals/CoinFlipAppView" pc="268436239" symbol="onShow"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="9" lineNum="55" parent="globals/CoinFlipAppView" pc="268436274" symbol="onUpdate"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="9" lineNum="56" parent="globals/CoinFlipAppView" pc="268436278" symbol="onUpdate"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="9" lineNum="57" parent="globals/CoinFlipAppView" pc="268436314" symbol="onUpdate"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="9" lineNum="58" parent="globals/CoinFlipAppView" pc="268436326" symbol="onUpdate"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="9" lineNum="60" parent="globals/CoinFlipAppView" pc="268436346" symbol="onUpdate"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="9" lineNum="61" parent="globals/CoinFlipAppView" pc="268436391" symbol="onUpdate"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="9" lineNum="62" parent="globals/CoinFlipAppView" pc="268436403" symbol="onUpdate"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="9" lineNum="63" parent="globals/CoinFlipAppView" pc="268436439" symbol="onUpdate"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="9" lineNum="65" parent="globals/CoinFlipAppView" pc="268436451" symbol="onUpdate"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="9" lineNum="66" parent="globals/CoinFlipAppView" pc="268436502" symbol="onUpdate"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="9" lineNum="67" parent="globals/CoinFlipAppView" pc="268436525" symbol="onUpdate"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="9" lineNum="68" parent="globals/CoinFlipAppView" pc="268436570" symbol="onUpdate"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="9" lineNum="69" parent="globals/CoinFlipAppView" pc="268436582" symbol="onUpdate"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="9" lineNum="70" parent="globals/CoinFlipAppView" pc="268436618" symbol="onUpdate"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="9" lineNum="72" parent="globals/CoinFlipAppView" pc="268436630" symbol="onUpdate"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="9" lineNum="73" parent="globals/CoinFlipAppView" pc="268436681" symbol="onUpdate"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="10" lineNum="77" parent="globals/CoinFlipAppView" pc="268436705" symbol="vibrateFunc"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="10" lineNum="78" parent="globals/CoinFlipAppView" pc="268436709" symbol="vibrateFunc"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="10" lineNum="82" parent="globals/CoinFlipAppView" pc="268436761" symbol="vibrateFunc"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="11" lineNum="88" parent="globals/CoinFlipAppView" pc="268436780" symbol="onHide"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="11" lineNum="89" parent="globals/CoinFlipAppView" pc="268436784" symbol="onHide"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="12" lineNum="5" parent="globals/CoinFlipAppView" pc="268437126" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppView.mc" id="12" lineNum="5" parent="globals/CoinFlipAppView" pc="268437126" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppApp.mc" id="14" lineNum="7" parent="globals/CoinFlipAppApp" pc="268436809" symbol="initialize"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppApp.mc" id="14" lineNum="8" parent="globals/CoinFlipAppApp" pc="268436813" symbol="initialize"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppApp.mc" id="15" lineNum="12" parent="globals/CoinFlipAppApp" pc="268436832" symbol="onStart"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppApp.mc" id="16" lineNum="16" parent="globals/CoinFlipAppApp" pc="268436837" symbol="onStop"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppApp.mc" id="17" lineNum="20" parent="globals/CoinFlipAppApp" pc="268436842" symbol="getInitialView"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppApp.mc" id="17" lineNum="21" parent="globals/CoinFlipAppApp" pc="268436846" symbol="getInitialView"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppApp.mc" id="18" lineNum="5" parent="globals/CoinFlipAppApp" pc="268437175" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppApp.mc" id="18" lineNum="5" parent="globals/CoinFlipAppApp" pc="268437175" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppApp.mc" id="19" lineNum="26" parent="globals" pc="268436914" symbol="getApp"/>
+        <entry filename="D:\\Coding\\Monkey C\\CoinFlipApp\\source\\CoinFlipAppApp.mc" id="19" lineNum="27" parent="globals" pc="268436926" symbol="getApp"/>
+        <entry filename="Rez" id="21" lineNum="2" parent="globals/Rez/Drawables" pc="268437169" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="22" lineNum="6" parent="globals/Rez/Fonts" pc="268437171" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="23" lineNum="8" parent="globals/Rez/JsonData" pc="268437173" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="24" lineNum="17" parent="globals/Rez/Layouts" pc="268436943" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="19" parent="globals/Rez/Layouts" pc="268436955" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="21" parent="globals/Rez/Layouts" pc="268437107" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="10" parent="globals/Rez/Layouts" pc="268437172" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="26" lineNum="26" parent="globals/Rez/Menus" pc="268437170" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="27" lineNum="28" parent="globals/Rez/Strings" pc="268437174" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="28" lineNum="1" parent="globals/Rez" pc="268437145" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="28" lineNum="1" parent="globals/Rez" pc="268437145" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8389346" symbol="text"/>
+        <entry id="9" object="true" symbol="CoinFlipAppDelegate"/>
+        <entry id="10" object="true" symbol="CoinFlipAppView"/>
+        <entry field="true" id="14" symbol="tailsText"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="19" method="true" symbol="MainLayout"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="21" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="22" method="true" symbol="coinFlip"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="20" symbol="prompt"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="17" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="11" object="true" symbol="CoinFlipAppApp"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="15" method="true" symbol="vibrateFunc"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="12" symbol="startText"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="18" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry field="true" id="13" symbol="headsText"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="8389097" method="true" symbol="onKey"/>
+        <entry id="16" module="true" symbol="Layouts"/>
+        <entry id="8388636" module="true" symbol="Attention"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435622" name="keyEvent" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435745" name="dc" stackId="1" startPc="268435704"/>
+        <entry arg="true" endPc="268436704" name="dc" stackId="1" startPc="268436274"/>
+        <entry endPc="268436778" name="vibeData" stackId="1" startPc="268436709"/>
+        <entry arg="true" endPc="268436836" name="state" stackId="1" startPc="268436832"/>
+        <entry arg="true" endPc="268436841" name="state" stackId="1" startPc="268436837"/>
+        <entry endPc="268437123" name="rez_cmp_local_text_7101780125" stackId="2" startPc="268436955"/>
+        <entry arg="true" endPc="268437124" name="dc" stackId="1" startPc="268436943"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="prompt"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/CoinFlipAppView" offset="166" parentId="globals" symbolId="CoinFlipAppView" type="class"/>
+        <dataEntry label="globals/Rez" offset="277" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="356" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="395" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="426" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="457" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="496" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="527" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/CoinFlipAppApp" offset="574" parentId="globals" symbolId="CoinFlipAppApp" type="class"/>
+        <dataEntry label="globals/CoinFlipAppDelegate" offset="645" parentId="globals" symbolId="CoinFlipAppDelegate" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435478" name="initialize" parent="CoinFlipAppDelegate" startPc="268435456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435622" name="onKey" parent="CoinFlipAppDelegate" startPc="268435479">
+            <param id="keyEvent"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435680" name="coinFlip" parent="CoinFlipAppDelegate" startPc="268435623">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437212" name="&lt;init&gt;" parent="CoinFlipAppDelegate" startPc="268437194">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435703" name="initialize" parent="CoinFlipAppView" startPc="268435681">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435745" name="onLayout" parent="CoinFlipAppView" startPc="268435704">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436273" name="onShow" parent="CoinFlipAppView" startPc="268435746">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436704" name="onUpdate" parent="CoinFlipAppView" startPc="268436274">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436779" name="vibrateFunc" parent="CoinFlipAppView" startPc="268436705">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436808" name="onHide" parent="CoinFlipAppView" startPc="268436780">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437144" name="&lt;init&gt;" parent="CoinFlipAppView" startPc="268437126">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436831" name="initialize" parent="CoinFlipAppApp" startPc="268436809">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436836" name="onStart" parent="CoinFlipAppApp" startPc="268436832">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436841" name="onStop" parent="CoinFlipAppApp" startPc="268436837">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436913" name="getInitialView" parent="CoinFlipAppApp" startPc="268436842">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437193" name="&lt;init&gt;" parent="CoinFlipAppApp" startPc="268437175">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436942" name="getApp" startPc="268436914">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437169" name="&lt;init&gt;" parent="Drawables" startPc="268437169">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437171" name="&lt;init&gt;" parent="Fonts" startPc="268437171">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437173" name="&lt;init&gt;" parent="JsonData" startPc="268437173">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437124" name="MainLayout" parent="Layouts" startPc="268436943">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437172" name="&lt;init&gt;" parent="Layouts" startPc="268437172">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437170" name="&lt;init&gt;" parent="Menus" startPc="268437170">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437174" name="&lt;init&gt;" parent="Strings" startPc="268437174">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437168" name="&lt;init&gt;" parent="Rez" startPc="268437145">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
