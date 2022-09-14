@@ -72,7 +72,7 @@ class CoinFlipAppView extends WatchUi.View {
     function vibrateFunc() {
         var vibeData =
             [
-                new Attention.VibeProfile(10, 1000),
+                new Attention.VibeProfile(100, 100),
             ];
         Attention.vibrate(vibeData);
     }
